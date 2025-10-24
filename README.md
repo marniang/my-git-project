@@ -1,2 +1,3 @@
-# my-git-project
+# My Git project
+
 un repertoire test
